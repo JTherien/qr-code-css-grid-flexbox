@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![Desktop - 1440p](./screenshot-1440p.png)
-![Mobile - iPhone 11 Pro](./screenshot-iPhone11Pro)
+![Mobile - iPhone 11 Pro](./screenshot-iPhone11Pro.png)
 
 ### Links
 
